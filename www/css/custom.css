@@ -1,0 +1,50 @@
+img{
+    float: left;
+    height: 50px;
+    margin-right: 40px;  
+    padding: 0px;
+    
+}
+
+.navElement{
+    margin: 5px;
+    float: left;
+    background-color: #f0f0f0;
+    text-transform: uppercase;
+}
+.navElement:hover{
+
+    color: #005682;
+}
+
+.navElement a{
+    
+    text-decoration: none;
+}
+
+header{
+  
+    padding: 20px 20px;
+    color: white; 
+    font-size: 12pt;
+    background-color: rgb(17, 78, 134)
+}
+header h1{
+    margin-left: 50px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+article{
+    clear:left;
+}
+
+
+footer{
+    clear:left;
+    color: gray;
+}
+
+.visited{
+    color:#005682 
+}
